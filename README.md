@@ -60,4 +60,13 @@ Gaming                █████████████████
 📊 GitHub Stats
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashutosh110405&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashutosh110405&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/> </div>
+
+🌐 Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/ashutosh-uttekar"> <img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Uttekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/omiee.110405"> <img src="https://img.shields.io/badge/Instagram-@omiee.110405-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://github.com/ashutosh110405"> <img src="https://img.shields.io/badge/GitHub-ashutosh110405-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+<div align="center">
+  
+💡 "Build. Learn. Experiment. Evolve."
+⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=ashutosh110405&label=Profile%20Views&color=00F7FF&style=for-the-badge" /> </div>
