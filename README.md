@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🧑🏻‍💻 Full stack Developer | UI/UX Designer | Marketing & Business Strategy Enthusiast | Tech & Gaming | SEO & SMM
 
 <!--
 **ashutosh110405/ashutosh110405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
