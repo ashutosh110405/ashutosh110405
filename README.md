@@ -19,12 +19,15 @@
 <div align="center">
   
 💻 Development
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 
 🎨 Design & Creative
+
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 
 🤖 Exploring
+
 <img src="https://skillicons.dev/icons?i=python" /> </div>
 
 💼 What I Do
