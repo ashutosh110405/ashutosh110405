@@ -48,6 +48,7 @@ Area	Focus
 🧠 Software Architecture & System Design
 
 📌 Interests
+
 Web Development       ████████████████████
 UI/UX Design          ██████████████████
 Technology            ███████████████████
