@@ -47,13 +47,18 @@ I enjoy exploring the intersection of technology, creativity, and business — t
 ---
 
 
+
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Development & Programming
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs,php,java,python,c,cpp,r,mysql,git,github,vscode" alt="Development & Programming Tools"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs" alt="Development Tools - Row 1"/>
+
+<img src="https://skillicons.dev/icons?i=php,java,python,c,cpp" alt="Programming Languages - Row 2"/>
+
+<img src="https://skillicons.dev/icons?i=r,mysql,git,github,vscode" alt="Development Tools - Row 3"/>
 
 </div>
 
@@ -72,6 +77,11 @@ I enjoy exploring the intersection of technology, creativity, and business — t
 <img src="https://skillicons.dev/icons?i=ps,pr,canva" alt="Creative Tools"/>
 
 </div>
+
+I'm interested in exploring new technologies, improving my development workflow, and finding better ways to bring creative ideas to life.
+
+</div>
+
 
 
 I'm interested in exploring new technologies, improving my development workflow, and finding better ways to bring creative ideas to life.
