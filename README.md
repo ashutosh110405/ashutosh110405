@@ -74,17 +74,11 @@ I enjoy exploring the intersection of technology, creativity, and business — t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ps,pr," alt="Creative Tools"/>
+<img src="https://skillicons.dev/icons?i=ps,pr" alt="Adobe Photoshop & Premiere Pro"/>
 
 </div>
 
-I'm interested in exploring new technologies, improving my development workflow, and finding better ways to bring creative ideas to life.
-
-</div>
-
-
-
-I'm interested in exploring new technologies, improving my development workflow, and finding better ways to bring creative ideas to life.
+Exploring creative design, photo editing, and video production using Adobe Photoshop and Adobe Premiere Pro.
 
 ---
 
