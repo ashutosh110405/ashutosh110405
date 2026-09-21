@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,45:1A1A1A,75:8B0000,100:FF3B3B&height=140&section=header" width="100%" alt="Crimson Gradient Header"/>
 
