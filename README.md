@@ -1,3 +1,8 @@
+div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,45:1A1A1A,75:8B0000,100:FF3B3B&height=140&section=header" width="100%" alt="Crimson Gradient Header"/>
+
+</div>
 
 <div align="center">
 
@@ -7,7 +12,7 @@
 
 Building ideas into meaningful digital experiences through technology, design, and creativity.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;Tech+%26+Gaming+Enthusiast;Marketing+%26+Business+Strategy;SEO+%26+Social+Media+Marketing;Building+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;Tech+%26+Gaming+Enthusiast;Marketing+%26+Business+Strategy;SEO+%26+Social+Media+Marketing;Building+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
 
 <br/>
 
@@ -151,15 +156,15 @@ I enjoy approaching projects with a combination of creativity, problem-solving, 
 ### Explore My GitHub Journey
 
 <a href="https://github.com/ashutosh110405?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="Explore Repositories"/>
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=FF3B3B" alt="Explore Repositories"/>
 </a>
 
 <a href="https://github.com/ashutosh110405?tab=stars">
-  <img src="https://img.shields.io/badge/View-My%20Stars-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/badge/View-My%20Stars-0D1117?style=for-the-badge&logo=github&logoColor=FF3B3B" alt="GitHub Stars"/>
 </a>
 
 <a href="https://github.com/ashutosh110405?tab=overview">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub Profile"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=FF3B3B" alt="GitHub Profile"/>
 </a>
 
 <br/><br/>
@@ -223,6 +228,13 @@ Every project is an opportunity to learn something new, solve a problem, and cre
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ashutosh110405&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ashutosh110405&label=Profile%20Views&color=8B0000&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3B3B,45:8B0000,75:1A1A1A,100:0D0D0D&height=100&section=footer" width="100%" alt="Crimson Gradient Footer"/>
 
 </div>
