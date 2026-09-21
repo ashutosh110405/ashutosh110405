@@ -46,33 +46,33 @@ I enjoy exploring the intersection of technology, creativity, and business — t
 
 ---
 
-## 🛠️ Tech Stack & Tools
 
-Technologies and creative tools I use, work with, or am exploring.
+## 🛠️ Tech Stack & Tools
 
 ### 💻 Development & Programming
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nodejs,express,mongodb,mysql,git,github,vscode" alt="Development Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs,php,java,python,c,cpp,r,mysql,git,github,vscode" alt="Development & Programming Tools"/>
 
 </div>
 
-### 🎨 UI/UX Design & Creative Tools
+### 🎨 UI/UX Design
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Design Tools"/>
+<img src="https://skillicons.dev/icons?i=figma,xd" alt="UI/UX Design Tools"/>
 
 </div>
 
-### 🤖 Exploring & Experimenting
+### 🧪 Creative Tools & Experimenting
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=ps,pr,canva" alt="Creative Tools"/>
 
 </div>
+
 
 I'm interested in exploring new technologies, improving my development workflow, and finding better ways to bring creative ideas to life.
 
@@ -139,15 +139,29 @@ I enjoy approaching projects with a combination of creativity, problem-solving, 
 
 ---
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashutosh110405&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="Ashutosh's GitHub Stats"/>
+### Explore My GitHub Journey
+
+<a href="https://github.com/ashutosh110405?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="Explore Repositories"/>
+</a>
+
+<a href="https://github.com/ashutosh110405?tab=stars">
+  <img src="https://img.shields.io/badge/View-My%20Stars-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub Stars"/>
+</a>
+
+<a href="https://github.com/ashutosh110405?tab=overview">
+  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub Profile"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh110405&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Most Used Languages"/>
+💻 I use GitHub to build projects, explore technologies,
+and track my growth as a developer.
 
 </div>
 
