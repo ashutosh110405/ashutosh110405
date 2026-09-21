@@ -54,11 +54,11 @@ I enjoy exploring the intersection of technology, creativity, and business — t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs" alt="Development Tools - Row 1"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs" alt="Development Tools - Row 1"/><br>
 
-<img src="https://skillicons.dev/icons?i=php,java,python,c,cpp" alt="Programming Languages - Row 2"/>
+<img src="https://skillicons.dev/icons?i=php,java,python,c,cpp" alt="Programming Languages - Row 2"/><br>
 
-<img src="https://skillicons.dev/icons?i=r,mysql,git,github,vscode" alt="Development Tools - Row 3"/>
+<img src="https://skillicons.dev/icons?i=r,mysql,git,github,vscode" alt="Development Tools - Row 3"/><br>
 
 </div>
 
@@ -74,7 +74,7 @@ I enjoy exploring the intersection of technology, creativity, and business — t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ps,pr,canva" alt="Creative Tools"/>
+<img src="https://skillicons.dev/icons?i=ps,pr," alt="Creative Tools"/>
 
 </div>
 
